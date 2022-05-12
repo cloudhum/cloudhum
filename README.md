@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a full stack web developer</h3>
+<h2>Hi 🙂</h2>
+<div> I'm a full stack web developer passionate about creating beauitful and responsive websites. I'm currently learning React JS and NodeJS.</div>
 
-🌱 Currently learning **React JS, NodeJS**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
