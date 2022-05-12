@@ -1,4 +1,4 @@
-<h2>Hi 🙂</h2>
+<h2>👋🙂</h2>
 <div> I'm a full stack web developer passionate about creating beauitful and responsive websites. I'm currently learning React JS and NodeJS.</div>
 
 
